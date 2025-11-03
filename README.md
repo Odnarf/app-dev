@@ -54,4 +54,3 @@ It’s not just about cars — it’s about **loyalty, teamwork, and family**.
 
 ---
 
-Would you like me to add a small **movie poster image** (using Markdown image syntax) at the top too?
